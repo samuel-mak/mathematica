@@ -1,0 +1,7 @@
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 1px solid #00bc8c;
+    color: #00bc8c !important;
+}
+
+h2 {border-bottom: none;
+}

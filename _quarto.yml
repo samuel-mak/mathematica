@@ -1,0 +1,37 @@
+project:
+  type: book
+
+book:
+  title: "Calculus"
+  author: "Sam Mak"
+  sidebar: 
+    background: "black"
+    search: false
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: darkly
+    backgroundcolor: "black"
+    date-modified: last-modified
+    fontcolor: "#CCCCCC"
+    css: mathematics.css
+    number-sections: false
+    section-divs: true
+  
+    grid: 
+      body-width: 1200px
+      margin-width: 100px
+      
+  pdf:
+    documentclass: scrreprt
+    
+
+editor: source
+
