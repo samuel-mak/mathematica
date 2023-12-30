@@ -9,9 +9,9 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "Objects",
+    "title": "Number Theory",
     "section": "",
-    "text": "Header 1\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!"
+    "text": "Number\n\nDefinition\n\nA number is a mathematical object primarily used for counting and/or measuring/quantifying some objects\n\nTypes of number\n\nThere are different types of numbers and they mostly exist as units within a hierarchy/subsets of some larger sets based on their properties, hence, they are also referred to as number sets/systems\nEach type is sometimes denoted by a different symbol due to its significance\n\n\nSome types of number in hierarchy\n\n\nComplex (\\(\\mathbb{C}\\))\n\nImaginary\nReal (\\(\\mathbb{R}\\))\n\nRational (\\(\\mathbb{Q}\\))\n\nInteger (\\(\\mathbb{Z}\\))\n\nNatural (\\(\\mathbb{N}\\))\nNegative integers\n\nFraction\n\nIrrational\n\nAlgebraic irrational\nTranscendental"
   },
   {
     "objectID": "summary.html",

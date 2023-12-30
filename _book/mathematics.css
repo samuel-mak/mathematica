@@ -20,6 +20,12 @@ ul li {
   padding-left: 1%; 
   padding-bottom: 0px; 
   margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: -50px;
+}
+
+ul{
+  margin-bottom: 0px;
 }
 
 html, body {
@@ -40,5 +46,34 @@ div.sidebar-item-container .active, div.sidebar-item-container .show>.nav-link, 
 }
 a {
     color: #C0C0C0;
-
 }
+
+p{
+  margin-bottom: 0px;
+}
+main ul ul, main ol ul, main ul ol {
+    margin-bottom: 0em;
+}
+
+details>summary {
+    color: #C0C0C0;
+    list-style-type: '';
+    list-style: none;
+}
+details[open] > summary {
+    list-style-type: '';
+    color: #8FC4B7;
+}
+summary:hover{
+  color: #8FC4B7;
+  transition: 0.2s;
+}
+
+
+
+
+
+
+
+
+

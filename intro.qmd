@@ -1,35 +1,27 @@
-# Objects {.unnumbered}
+# Number Theory {.unnumbered}
 
 
-# Header 1
+**Number**
 
-The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
+- **Definition**
+  - A number is a mathematical object primarily used for counting and/or measuring/quantifying some objects
+- **Types of number**
+  - There are different types of numbers and they mostly exist as units within a hierarchy/subsets of some larger sets based on their properties, hence, they are also referred to as number sets/systems
+  - Each type is sometimes denoted by a different symbol due to its significance
+  - <details><summary>**Some types of number in hierarchy**</summary>
+    - Complex ($\mathbb{C}$)
+      - Imaginary
+      - Real ($\mathbb{R}$) 
+        - Rational ($\mathbb{Q}$) 
+          - Integer ($\mathbb{Z}$)
+            - Natural ($\mathbb{N}$) 
+            - Negative integers
+          - Fraction
+        - Irrational 
+          - Algebraic irrational 
+          - Transcendental
+          </details>
 
-## Header 2
 
-The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
-
-### Header 3
-
-The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
-
-#### Header 4
-##### Header 5
-###### Header 6
-
-## Mathematical Objects
-
-- **Mathematical object**
-  - Introduction 
-    - Object is an abstract concept 
-  - Definition
-    - An object is defined by it's rules/properties 
-    - The concept of an object is very complex and is not solely derived from mathematics. It is in   fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some   words so that I could format my quarto book, also notice that I am trying to speak absolute garbage,   but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book   now, see you!
-      - The concept of an object is very complex and is not solely derived from mathematics. It is in   fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some   words so that I could format my quarto book, also notice that I am trying to speak absolute garbage,   but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book   now, see you!
-  - Mathematical definition 
-    - $y = mx + c$
-  
-  
-
-  
-  
+**Natural Numbers**
+- 
