@@ -11,12 +11,12 @@
     "href": "intro.html",
     "title": "Objects",
     "section": "",
-    "text": "Header 1"
+    "text": "Header 1\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!"
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
@@ -39,6 +39,20 @@
     "href": "intro.html#header-2",
     "title": "Objects",
     "section": "Header 2",
-    "text": "Header 2\n\nHeader 3\n\nHeader 4\n\nHeader 5\n\nHeader 6"
+    "text": "Header 2\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!\n\nHeader 3\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!\n\nHeader 4\n\nHeader 5\n\nHeader 6"
+  },
+  {
+    "objectID": "intro.html#mathematical-objects",
+    "href": "intro.html#mathematical-objects",
+    "title": "Objects",
+    "section": "Mathematical Objects",
+    "text": "Mathematical Objects\n\nMathematical object\n\nIntroduction\n\nObject is an abstract concept\n\nDefinition\n\nAn object is defined by it’s rules/properties\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!\n\nThe concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don’t actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn’t smell, unlike you, well, I think I have enough words to test my quarto book now, see you!\n\n\nMathematical definition\n\n\\(y = mx + c\\)"
+  },
+  {
+    "objectID": "testing.html",
+    "href": "testing.html",
+    "title": "testing",
+    "section": "",
+    "text": "This is a list:\n\nMetallica\n\nMaster of Puppets\n\nOrion\nSanitarium\nLeper Messiah\n\nRide the lightning\nAnd justice for all\n\nBlackened\nEye of the beholder\n\n\nGojira\n\nThe way of all flesh\n\nToxic garbage island\nOroborus\nWolf down the Earth\n\nThe link\n\nTorii\nConnected\nRemembrance\n\nLenfant sauvage\n\nSylosis\nA sign of things to come\nDeadwood\nPoison for the lost\nPariahs\nAbsent\nMonolith\nOut from below\nParadox\nEnshrined\nA dying vine\nConclusion of an age |&gt; |&gt;"
   }
 ]

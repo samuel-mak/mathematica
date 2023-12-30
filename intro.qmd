@@ -2,14 +2,34 @@
 
 
 # Header 1
+
+The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
+
 ## Header 2
+
+The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
+
 ### Header 3
+
+The concept of an object is very complex and is not solely derived from mathematics. It is in fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some words so that I could format my quarto book, also notice that I am trying to speak absolute garbage, but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book now, see you!
+
 #### Header 4
 ##### Header 5
 ###### Header 6
 
-## Objects 
-Object
-- Definition
-  - An object is defined by it's rules/properties 
+## Mathematical Objects
+
+- **Mathematical object**
+  - Introduction 
+    - Object is an abstract concept 
+  - Definition
+    - An object is defined by it's rules/properties 
+    - The concept of an object is very complex and is not solely derived from mathematics. It is in   fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some   words so that I could format my quarto book, also notice that I am trying to speak absolute garbage,   but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book   now, see you!
+      - The concept of an object is very complex and is not solely derived from mathematics. It is in   fact, wait, I don't actually know what the fuck I am talking about now, I am just trying to add some   words so that I could format my quarto book, also notice that I am trying to speak absolute garbage,   but garbage that doesn't smell, unlike you, well, I think I have enough words to test my quarto book   now, see you!
+  - Mathematical definition 
+    - $y = mx + c$
+  
+  
+
+  
   

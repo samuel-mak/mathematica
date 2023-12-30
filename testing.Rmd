@@ -1,0 +1,51 @@
+---
+title: "testing"
+author: "Samuel Mak"
+date: '2023-12-29'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+```
+
+  
+This is a list:
+
+- Metallica
+  - Master of Puppets
+    - Orion
+    - Sanitarium 
+    - Leper Messiah
+  - Ride the lightning 
+  - And justice for all 
+    - Blackened
+    - Eye of the beholder
+- Gojira
+  - The way of all flesh
+    - Toxic garbage island 
+    - Oroborus
+    - Wolf down the Earth
+  - The link 
+    - Torii 
+    - Connected
+    - Remembrance
+  - Lenfant sauvage
+- Sylosis
+ - A sign of things to come 
+  - Deadwood
+  - Poison for the lost
+  - Pariahs 
+  - Absent 
+ - Monolith 
+  - Out from below 
+  - Paradox 
+  - Enshrined 
+  - A dying vine 
+ - Conclusion of an age |> |> 
+  
+  

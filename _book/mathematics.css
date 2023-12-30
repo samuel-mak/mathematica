@@ -1,7 +1,44 @@
-.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
-    border-left: 1px solid #00bc8c;
-    color: #00bc8c !important;
-}
+
 
 h2 {border-bottom: none;
+}
+
+html, body {
+  font-family: Helvetica Neue; font-size: 85%; width: 100%; 
+}
+
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10 {
+  padding-bottom: 0px;
+}
+
+/* within-list formating */
+ul li {
+  width: 100%; 
+  margin: 0px; 
+  padding: 0em; 
+  line-height: 20px; 
+  padding-left: 1%; 
+  padding-bottom: 0px; 
+  margin-bottom: 0px;
+}
+
+html, body {
+  margin:0px;
+  height:100%;
+  width: 100%;
+}
+
+
+.sidebar-navigation a {
+    color: #C0C0C0;
+}
+a:hover {
+    color: #8FC4B7;
+}
+div.sidebar-item-container .active, div.sidebar-item-container .show>.nav-link, div.sidebar-item-container .sidebar-link>code {
+    color: #8FC4B7;
+}
+a {
+    color: #C0C0C0;
+
 }

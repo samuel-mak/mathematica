@@ -20,14 +20,16 @@ format:
     theme: darkly
     backgroundcolor: "black"
     date-modified: last-modified
+    toc: false
     fontcolor: "#CCCCCC"
     css: mathematics.css
     number-sections: false
     section-divs: true
   
     grid: 
-      body-width: 1200px
+      body-width: 1100px
       margin-width: 100px
+      sidebar-width: 180px
       
   pdf:
     documentclass: scrreprt
