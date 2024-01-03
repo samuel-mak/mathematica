@@ -9,11 +9,13 @@ book:
     search: false
   chapters:
     - index.qmd
+    - introduction.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
+csl: csl.csl
 
 format:
   html:
@@ -21,7 +23,7 @@ format:
     backgroundcolor: "black"
     date-modified: last-modified
     toc: false
-    fontcolor: "#CCCCCC"
+    fontcolor: "#AAAAAA"
     css: mathematics.css
     number-sections: false
     section-divs: true

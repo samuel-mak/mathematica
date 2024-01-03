@@ -1,0 +1,37 @@
+# Introduction
+
+**Definition**
+- **Definition**
+  - A definition is a statement that describes the essential/distinctive identity (i.e. qualities) of the thing that's being defined with the purpose of it being understood and in turn studied and applied and/or have more complex things developed from it - **More**
+  - A thing could be defined by one or more different parameters such as what it contains, its physical properties, behaviour when interacting with other things, purpose, usage 
+  - The same thing (of the same meaning) could be defined differently, for example, the distinction of conceptual vs operational definition in science for different uses, the level of description for different intended level of understanding (e.g. a thing described in a general dictionary may differ from the same thing in a domain-specific dictionary - e.g. water in the general dictionary describes water as a transparent liquid while it is described as having a chemical configuration of H2O in a chemistry dictionary)
+  
+  
+**Statement**
+- A chain of words that describes a state of being (i.e. a declarative chain of words that contain some predicate)
+
+
+
+
+
+**Definition in mathematics**
+- **Introduction**
+  - There are different types of definitions in mathematics (of mathematical objects)
+- **Types of definitions**
+  - Axiom
+  - Conjecture
+  - Corollary - A statement that follows on from another theorem
+  - Lemma
+  - Theorem
+  
+  
+  - Definitions
+  - Automate pupil movement slides
+  
+```{r}
+'makemoney' <- function(x, y){x + y}
+
+3 makemoney 3
+```
+  
+  

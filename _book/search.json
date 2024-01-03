@@ -11,7 +11,7 @@
     "href": "intro.html",
     "title": "Number Theory",
     "section": "",
-    "text": "Number\n\nDefinition\n\nA number is a mathematical object primarily used for counting and/or measuring/quantifying some objects\n\nTypes of number\n\nThere are different types of numbers and they mostly exist as units within a hierarchy/subsets of some larger sets based on their properties, hence, they are also referred to as number sets/systems\nEach type is sometimes denoted by a different symbol due to its significance\n\n\nSome types of number in hierarchy\n\n\nComplex (\\(\\mathbb{C}\\))\n\nImaginary\nReal (\\(\\mathbb{R}\\))\n\nRational (\\(\\mathbb{Q}\\))\n\nInteger (\\(\\mathbb{Z}\\))\n\nNatural (\\(\\mathbb{N}\\))\nNegative integers\n\nFraction\n\nIrrational\n\nAlgebraic irrational\nTranscendental"
+    "text": "**Definition\nNumber\n\nDefinition\n\nA number is a mathematical object primarily used for counting and/or measuring/quantifying some objects\n\nTypes of number\n\nThere are different types of numbers and they mostly exist as units within a hierarchy/subsets of some larger sets based on their properties, hence, they are also referred to as number sets/systems\nEach type is sometimes denoted by a different symbol due to its significance\n\n\nSome types of number in hierarchy\n\n\nComplex (\\(\\mathbb{C}\\))\n\nImaginary\nReal (\\(\\mathbb{R}\\))\n\nRational (\\(\\mathbb{Q}\\))\n\nInteger (\\(\\mathbb{Z}\\))\n\nNatural (\\(\\mathbb{N}\\))\nNegative integers\n\nFraction\n\nIrrational\n\nAlgebraic irrational\nTranscendental\n\n\n\n\n\n\n\nNatural Numbers\n\nIntroduction\n\nNatural numbers are a set of numbers that is considered to be the most basic/primitive type of numbers (i.e. being the lowest level in the number type hierarchy)\nAka “counting numbers”\n\nConceptual Definition\n\n\\(\\mathbb{N} = 0, 1, 2, 3, ...\\)\n\nNotes\n\nHistorically, natural numbers have been defined as all positive integers (\\(1, 2, 3, ...\\)), which means that zero has been excluded as zero wasn’t conceptualized as a number. In more recent times, zero is generally considered as a number, hence, natural numbers are defined as all non-negative integers (\\(0, 1, 2, 3, ...\\)), hence, they are also known as that. People using the former definition includes Michael Spivak (Spivak, 2008) while those using the latter definition includes Terence Tao (Tao, 2016)\n\n\n\nMathematical definition\n\nThe Peano axioms\n\nIntroduction\n\nPeano\n\n\n\n\n\n\n\n\nSpivak, M. (2008). Calculus (4th ed.). Publish or Perish.\n\n\nTao, T. (2016). Analysis I (3rd ed., Vol. 37). Springer."
   },
   {
     "objectID": "summary.html",
@@ -25,7 +25,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Spivak, M. (2008). Calculus (4th ed.). Publish or Perish.\n\n\nTao, T. (2016). Analysis I (3rd ed., Vol. 37).\nSpringer."
   },
   {
     "objectID": "intro.html#objects",

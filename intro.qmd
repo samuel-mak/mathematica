@@ -1,6 +1,8 @@
 # Number Theory {.unnumbered}
 
 
+**Definition
+
 **Number**
 
 - **Definition**
@@ -24,4 +26,32 @@
 
 
 **Natural Numbers**
-- 
+
+- **Introduction**
+  - Natural numbers are a set of numbers that is considered to be the most basic/primitive type of numbers (i.e. being the lowest level in the number type hierarchy)
+  - Aka "counting numbers" 
+- **Conceptual Definition**
+  - $\mathbb{N} = 0, 1, 2, 3, ...$
+    - ***Notes*** 
+      - Historically, natural numbers have been defined as all positive integers ($1, 2, 3, ...$), which means that zero has been excluded as zero wasn't conceptualized as a number. In more recent times, zero is generally considered as a number, hence, natural numbers are defined as all non-negative integers ($0, 1, 2, 3, ...$), hence, they are also known as that. People using the former definition includes Michael Spivak [@spivak08] while those using the latter definition includes Terence Tao [@tao16]
+- **Mathematical definition**
+  - **The Peano axioms**
+    - **Introduction**
+      - Peano 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
