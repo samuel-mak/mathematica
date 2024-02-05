@@ -91,6 +91,7 @@ Latin structure
 
 
 
+
 **The distinction between state and condition**
 - While both are highly similar, I found some potential slight differences
 - State relates to the thing/object of interest while condition relates to things/objects that are external but causally relevant to the thing/object of interest 
