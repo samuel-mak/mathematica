@@ -3,10 +3,16 @@
 
 Words defined 
 - Definition
+- Finite
 - Theorem (theory being ignored)
 - Axiom
-- Statement 
+- Statement   
+  - Status 
+  - 
 - Proposition
+- Lemma 
+- Corollary 
+- 
 
 
 **Definition**
@@ -16,21 +22,74 @@ Words defined
   - The same thing (of the same meaning) could be defined differently, for example, the distinction of conceptual vs operational definition in science for different uses, the level of description for different intended level of understanding (e.g. a thing described in a general dictionary may differ from the same thing in a domain-specific dictionary - e.g. water in the general dictionary describes water as a transparent liquid while it is described as having a chemical configuration of H2O in a chemistry dictionary)
   
   
+###
+**Define/definition**
+- **Define (English)**
+  - **Meaning**
+    - To bound/restrict/limit/reserve/constrain/confine some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - To determine the boundary of; to settle the limits of [@oed89, 2nd def.]
+    - To make definite [@oed89, 2nd def.]
+- **Definio (Latin)**
+  - **Meaning**
+    - To bound/restrict/limit/reserve/constrain/confine some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - Composed of de (the sense of "being from not being") + finio, hence, it means being finite from not being finite (smak)
+    - To fix the limits of, delimit, bound, to mark out the limits of [@old12]
+- **Definire (Latin)**
+  - **Meaning**
+    - Composed of de (the sense of "being from not being") + finio, hence, it means to make something that isn't finite to being finite 
+    - To limit, determine, explain (Online Etymology Dictionary)
+    - De means completely, finire means to bound, limit (inherited from finis which means boundary/end)
+- **Definition (English)**
+  - **Meaning**
+    - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - The setting of bounds or limits; limitation, restriction [@oed89]
+  - **Linguistic/dialectic parent**
+    - Inherited from Latin definitio/definio, which is inherited from Latin definire (meaning set bounds to)
+- **Definitio (Latin)**
+  - **Meaning**
+    - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - The fixing or marking of a boundary [@old12, p. 550]
+    - A bounding, a boundary, a limiting, a prescribing, a definition, explanation [Online Etymology Dictionary](https://www.etymonline.com/word/definition#etymonline_v_25869)
+- **Definite (English)**
+  - **Meaning**
+    - Composed of de (meaning "from not being to being") + finite, hence, it means being finite from not being finite 
+    - Having fixed or exact limits... [@oed89]
+  
+
+  
 Latin structure 
 - Inflection - Word modification
 - There are several types of inflection
   - Declension - Inflections applied to nouns/adjectives
   - Conjugation - Inflections applied to verbs
-  
-**Statement (English)**
-- An expression of the state of a particular thing/object 
-- Derived from English "state"
+ 
+**State**
+- **State (English)**
+  - **Meaning**
+    - The position(s)/place(s) of the property(properties) of a particular thing/object (i.e. the value(s)/options(s) taken by the property/properties of a particular thing/object among all its/their possibilities) 
+    - This includes any property(properties) of any particular thing(s)/object(s) within the particular general thing/object (when the primary thing/object has a complex/nested structure)
+  - **Linguistic/Dialectic parent**
+    - Derived from Latin "status"
+- **Status (Latin)**
+  - **Meaning**
+    - Originally/primarily means (having been) standing/the fact of being in a standing position; alternatively means the position/place (where something is standing/set)
+  - **Grammatical Parent**
+    - The perfect passive participle of sto or sisto
+  - **Linguistic/dialectic parent** 
+    - Inherited from Proto-Italic "Statos", Proto-Indo-European "steh tus"
+- **Statos (sisto)**
+  - **Meaning**
+    - To stand, set, place
+- **Sto**
+  - **Meaning**
+    - To stand/to be in a standing position
+    - Inflections: stare, steti, statum
+- **Statement (English)**
+  - **Meaning**
+    - An expression of the state of a particular thing/object 
+    - Derived from English "state"
 
-**State (English)**
-- The position(s)/place(s) of the property(properties) of a particular thing/object (i.e. the value(s)/options(s) taken by the property/properties of a particular thing/object among all its/their possibilities) 
-- This includes any property(properties) of any particular thing(s)/object(s) within the particular general thing/object (when the primary thing/object has a complex/nested structure)
-- Defined by Me
-- Derived from Latin "status"
+
 
 **The distinction between state and condition**
 - While both are highly similar, I found some potential slight differences
@@ -38,28 +97,18 @@ Latin structure
 - Hence when "state" is used, it often has only one thing/object than when "condition" is used when it more often has multiple existentially distinct things/objects)
 - But technically, condition stems from Latin condicio and condicere meaning agreement - It got generalised to a list of statements to be agreed/met/true for something to work
 
-**Status (Latin)**
-- **Semantics (OLD)**
-  - Originally/primarily means (having been) standing/the fact of being in a standing position; alternatively means the position/place (where something is standing/set)
-- **Grammatical Parent**
-  - The perfect passive participle of sto or sisto
-- **Linguistic/dialectic parent** 
-  - Inherited from Proto-Italic "Statos", Proto-Indo-European "steh tus"
 
-**Statos (sisto)**
-- To stand, set, place
 
-**Sto**
-- To stand/to be in a standing position
-- Inflections: stare, steti, statum
+
 
 **Condition (English)**
-- **Semantic**
-  - A type of state, a state that needs/is required to be true/valid in order for a thing/object of primary interest to be true/valid
+- **Meaning**
+  - A type of state, a state that needs/is required to be true/valid in order for a thing/object of primary interest to be (to be true/valid)
 - **Linguistic/dialectic parent**
-  - Derived from old French condicion (requisite/prerequisite/stipulation) which is derived from Latin condicio (agreement) which is derived from Latin condicere (agree upon)
+  - Inherited from old French condicion (requisite/prerequisite/stipulation) which is derived from Latin condicio (agreement) which is derived from Latin condicere (agree upon)
   - Since about 1500s, it has its meaning generalised to state/situation and has included a sense of limitation/restriction (which is a sense derived from the original meaning)
-  
+
+#Stopped tidying here
   
 **Theorem**
 - A statement that is not self-evident hence needs to be proven for it to be taken as true 
@@ -226,42 +275,6 @@ $\Sigma \alpha \mu \upsilon \eta \lambda \text{  } \mu \alpha \kappa$
   - Inherited from Latin finitus, which was inherited from Latin finitum, the past participle of Latin finire (head word is finio) (Google/Oxford Languages)
 
 
-**Definio (Latin)**
-- **Meaning**
-  - Composed of de (the sense of "being from not being") + finio, hence, it means being finite from not being finite (smak)
-  - To fix the limits of, delimit, bound, to mark out the limits of [@old12]
-  
-**Definitio (Latin)**
-- **Meaning**
-  - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
-  - The fixing or marking of a boundary [@old12, p. 550]
-  - A bounding, a boundary, a limiting, a prescribing, a definition, explanation [Online Etymology Dictionary](https://www.etymonline.com/word/definition#etymonline_v_25869)
-  
-**Definire**
-- **Meaning**
-  - Composed of de (the sense of "being from not being") + finio, hence, it means to make something that isn't finite to being finite 
-  - To limit, determine, explain (Online Etymology Dictionary)
-  - De means completely, finire means to bound, limit (inherited from finis which means boundary/end)
-  
-  
-**Definite (English)**
-- **Meaning**
-  - Composed of de (meaning "from not being to being") + finite, hence, it means being finite from not being finite 
-  - Having fixed or exact limits... [@oed89]
-**Define (English)**
-  - **Meaning**
-    - To determine the boundary of; to settle the limits of [@oed89, 2nd def.]
-    - To make definite [@oed89, 2nd def.]
-  
-**Definition (English)**
-- **Meaning**
-  - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
-  - The setting of bounds or limits; limitation, restriction [@oed89]
-- **Linguistic/dialectic parent**
-  - Inherited from Latin definitio/definio, which is inherited from Latin definire (meaning set bounds to)
-  
-
-  
 
 S3, S4, RC, R6
 
@@ -327,8 +340,57 @@ Positus - Position
   
   - Definitions
   
-**Conjecture 
+**Lemma (English)**
+- **Meaning**
+  - The meaning of this word varies, hence, I am unable to derive my own definition of the general meaning of this word, though the definition of the meaning within mathematics is defined - see below (smak)
+- **Linguistic/dialectic parent** 
+  - Inherited from Latin lemma (meaning something assumed), which is inherited from Greek lemma (meaning something assumed), derived from the root Latin lambanein (meaning to take) and root Greek lambano (meaning "I take")
   
+**Lemma (Latin)**
+- **Meaning**
+  - The meaning of this word varies, hence, I am unable to derive my own definition of the general meaning of this word, though the definition of the meaning within mathematics is defined - see below (smak)
+  - Something taken for something (meaning in development; smak)
+  - Something assumed (Google/Oxford Languages)
+  - A theme or subject; a title [@old12, p. 1117]
+  - Something received or taken; an argument; something taken for granted [Etymonline](https://www.etymonline.com/word/lemma)
+  - A theme, title; epigram [Online Latin Dictionary](https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=lemma)
+  - A subject for consideration or explanation a them a matter; a subject contents [Wiktionary](https://en.wiktionary.org/wiki/lemma)
+- **In mathematics**
+  - A theorem made to prove a particular theorem of interest, hence, the theorem is treated as a subsidiary/intermediary in relation to the theorem of interest (smak)
+  - Something taken within an argument/proof (in development; smak)
+  - A subsidiary or intermediate theorem in an argument or proof (Google/Oxford Languages)
+  - A mathematical theorem proved primarily for use in the proof of a subsequent theorem [@codom]
+  - A proposition assumed or demonstrated which is subsidiary to some other [@oed89]
+  
+**Lemma (Greek)**
+- **Meaning**
+  - Premise; assumption [Wiktionary](https://en.wiktionary.org/wiki/lemma)
+  
+**Corollary (English)**
+- **Meaning**
+  - An unintended/effortless (hence additional/extra) consequent of something (smak)
+  - In modern English of the masses, this meaning is expressed by the word "by-product" (smak)
+  - Examples include gifts/tips to someone who did something, a theorem derived from a proof of another theorem (smak)
+  - A thesis, theorem; conclusion [@oed89, 1b def.]
+  - Something that follows in natural course; a practical consequence, result [@oed89, 2nd def.]
+  - Something added to a speech or writing over and above what is usual or what was originally intended; an appendix; a finishing or crowning part, the conclusion [@oed89, 3rd def.]
+  - Something additional or beyond the ordinary measure a surplus, a supernumerary [@oed89, 4th def.]
+  - A gift beyond what is actually due; an addition or superfluity [Wiktionary](https://en.wiktionary.org/wiki/corollary)
+  - An a fortiori occurrence, as a result of another effort without significant additional effort ([Wiktionary, 2nd def.](https://en.wiktionary.org/wiki/corollary))
+- **Linguistic/dialectic parent**
+  - Inherited from Latin corollarium (meaning money paid for a garland or chaplet; gratuity) and Late Latin corollarium (meaning deduction), inherited Latin corolla/corona (meaning wreath, crown, chaplet) (Google)
+- **Mathematics**
+  - A result that follows from a theorem almost immediately, often without further proof [@codom, p. 190]
+  
+**Corollarium (Late Latin)**
+- **Meaning**
+  - The result/product of a deduction (smak)
+  - A garland, often given as a reward [@old12, p.490]
+  - An additional or unsolicited payment, a gratuity, extra, bounty, douceur [@old12, p. 409, 2nd def.]
+  - A deduction, consequence [Etymonline](https://www.etymonline.com/word/corollary)
+**Corollarium (Latin)**
+- **Meaning**
+  - Money paid for a garland, hence, gift, gratuity, something extra  [Etymonline](https://www.etymonline.com/word/corollary)
   
 ```{r}
 # Proposition
@@ -337,3 +399,9 @@ Positus - Position
 ```
   
   
+  
+  
+  
+# Logic 
+
+Reasoning 
