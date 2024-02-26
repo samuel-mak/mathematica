@@ -1,7 +1,7 @@
 # Number Theory {.unnumbered}
 
 
-**Definition
+
 
 **Number**
 
@@ -10,46 +10,169 @@
 - **Types of number**
   - There are different types of numbers and they mostly exist as units within a hierarchy/subsets of some larger sets based on their properties, hence, they are also referred to as number sets/systems
   - Each type is sometimes denoted by a different symbol due to its significance
-  - <details><summary>**Some types of number in hierarchy**</summary>
-    - Complex ($\mathbb{C}$)
-      - Imaginary
-      - Real ($\mathbb{R}$) 
-        - Rational ($\mathbb{Q}$) 
-          - Integer ($\mathbb{Z}$)
-            - Natural ($\mathbb{N}$) 
-            - Negative integers
-          - Fraction
-        - Irrational 
-          - Algebraic irrational 
-          - Transcendental
-          </details>
+  - <details>
+      <summary>**Some types of number in hierarchy**</summary>
+      - Complex ($\mathbb{C}$)
+        - Imaginary
+        - Real ($\mathbb{R}$) 
+          - Rational ($\mathbb{Q}$) 
+            - Integer ($\mathbb{Z}$)
+              - Natural ($\mathbb{N}$) 
+                - Positive integers ($\mathbb{Z}^+$)
+              - Negative integers
+            - Fraction
+          - Irrational 
+            - Algebraic irrational 
+            - Transcendental 
+    </details>
+- **ha**
 
 
 **Natural Numbers**
 
 - **Introduction**
-  - Natural numbers are a set of numbers that is considered to be the most basic/primitive type of numbers (i.e. being the lowest level in the number type hierarchy)
-  - Aka "counting numbers" 
-- **Conceptual Definition**
+  - Natural numbers are a set of numbers that is considered to be the most basic/primitive type of numbers (i.e. being the lowest level in the number type hierarchy; it is used to build integers)
+  - Aka "counting numbers" or "whole numbers"
+- **Concept**
   - $\mathbb{N} = 0, 1, 2, 3, ...$
     - ***Notes*** 
-      - Historically, natural numbers have been defined as all positive integers ($1, 2, 3, ...$), which means that zero has been excluded as zero wasn't conceptualized as a number. In more recent times, zero is generally considered as a number, hence, natural numbers are defined as all non-negative integers ($0, 1, 2, 3, ...$), hence, they are also known as that. People using the former definition includes Michael Spivak [@spivak08] while those using the latter definition includes Terence Tao [@tao16]
-- **Mathematical definition**
-  - **The Peano axioms**
+      - Historically, natural numbers have been defined as all positive integers ($\mathbb{Z}^+ = 1, 2, 3, ...$), which means that zero has been excluded as zero wasn't conceptualized as a number. In more recent times, zero is generally considered as a number, hence, natural numbers are defined as all non-negative integers ($0, 1, 2, 3, ...$), hence, they are also known as non-negative integers. Sources using the former definition includes @spivak08 and Peano (early on) while those using the latter definition includes @tao16 and Peano (later on)
+- **Definition**
+  - **The Peano "axioms"**
     - **Introduction**
       - Peano 
+    - **The Peano "Axioms"**
+      1. **$0 \in \mathbb{N}$**
+        - 0 is a natural number
+      2. **$\mathbb{N}$ is closed under $S$**
+        - Natural numbers are closed under $S$ (specifically: $\forall n \in \mathbb{N}, S(n) \in \mathbb{N}$)
+        - Any natural numbers subject to the successor function cannot escape set $\mathbb{N}$
+        - Viewing the axioms sequentially, so far (i.e. based on axioms 1 and 2), $0$, $S(0)$, $S(S(0))$, $S(S(S(0))), \cdots$, a particular set where each element is nothing more than the application of $S$ to $0$ albeit different number of times between elements, is a subset of $\mathbb{N}$
+        - Note that it does not necessarily mean that $\mathbb{N}$ solely contains this subset, that is, it does not necessarily mean that all $n \in \mathbb{N}$ are the result of the application of $S$ to $0$. It just means that $\mathbb{N}$ contains at least this subset, there could be other elements in $\mathbb{N}$
+      3. **$\forall n \in \mathbb{N}, S(n) ≠ 0$**
+        - 0 is not the successor of any natural number 
+        - **Motivation**
+          - Consider if $\exists n \in \mathbb{N}, \text{ s.t. } S(n) = 0$, then it is possible that there is some $n$ in the operationally ordered subset of $\mathbb{N}$ ($0$, $S(0)$, $S(S(0))$, $S(S(S(0))), \cdots$) such that $S(n) = 0$ which would result in this subset returning to $0$ at some point and cycling around a limited number of natural numbers including $0$, like a clock where $S(\text{23:00}) = 00:00$ resulting in $24:00 = 00:00$, which would be different to how we conceptualise natural numbers to be 
+          - To render this subset of $\mathbb{N}$ impossible to cycle with $0$, the condition $\forall n \in \mathbb{N}, S(n) ≠ 0$ is set for the entire set $\mathbb{N}$
+      4. $S$ is an injection (one-to-one) function
+        - $S$ is an injective (one-to-one) function, specifically, as the mapping $S$ is defined to be a function (functions are defined not to be one-to-many), $S$ is not one-to-many, in addition, injectivity of $S$ means that $S$ has the property $\forall x, y \in \mathbb{N}, S(x) = S(y) \implies x = y$, that is, $S$ is not a many-to-one mapping, overall it means that $S$ is a one-to-one function
+        - This avoids cycling beyond 0 and limiting (same problem as 3 but does not include 0)
+
+
+          
+```{r}
+180-15 - 135
+```
+      
+              
+              - Viewing the axioms simultaneously, even if N has other elements other than 0, s(n) = 0 for some n would imply that the set is cyclical and is limited to those set of numbers (though not necessarily the labels, the labels could change but fundamentally they are still limited to the same set of objects )
+              - Viewing the axioms sequentially (i.e. based on axioms 1 and 2), 
+              Does not cycle at any point 
+              - At least 2 things in N
+              
+        
+- So far a
+
+```{r}
+(2024 - 1989) + 18
+```
+Source for psychometrics 
+https://bookdown.org/annabrown/psychometricsR/
+
+Operationally ordered 
+The operationally ordered subset of N does not cycle from and to 0
+Any potential other things in N 
+
+There is at least 2 things in N 
+Does not cycle upon 0 in any ways 
+
+Viewing the axioms sequentially, $0$, $S(0)$, $S(S(0))$, $S(S(S(0)))$, $\cdots \in \mathbb{N}$. Consider if S(n) = 0 for any n, then any application of S to 0 is 0, meaning that, 
+
+        - Although this is not an accurate inference, it seems like $0$ and $S$ are the essence of all natural numbers (all natural numbers are made up of the application of $S$ to $0$ but for different number of times between different natural numbers). It is inaccurate because we now only know that $0$, $S(0)$, $S(S(0))$, $S(S(S(0)))$, $\cdots \in \mathbb{N}$, it does not necessarily mean all $n \in \mathbb{N}$ are the same (i.e. follows the form $S(0)$)
+
+        - This implies (guarantees) that $\mathbb{N}$ must contain at least 2 elements, which are, as mentioned, 0, and another natural number $S(0) ≠ 0$, which shall be labelled as "1"
+- This is to avoid numbers wrapping/cycling around and producing unwanted results (e.g. 5 = 0 when S(4) wraps back to 0)
       
       
       
+then the single increment of $n$ (the thing that's in front of $n$) is a natural number 
+**The successor function**
+- **Introduction**
+  - A function for natural numbers 
+  - 
+
+All natural numbers are composed of 0 and the application of the successor function
+All natural numbers are composed of 0 and the successor function 
+
+      
+From wiki
+- Zero is a natural number
+- For every natural number $x$, $x = x$, that is, equality (a binary relation) is reflexive 
+- For all natural numbers $x$ and $y$, if $x = y$, then $y = x$, that is, the equality is symmetric
+- For all natural numbers $x$, $y$, and $z$, if $x = y$ and $y = z$, then $x = z$, that is, the quality is transitive - For all $x$ and $y$, if $y$ is a natural number and $x = y$, then $x$ is also a natural number, that is, natural numbers are closed under quality 
+- For every natural number $n$, $S(n)$ is a natural number (i.e. the natural numbers are closed under $S$)
+- For all natural numbers $x$ and $y$, if $S(x) = S(y)$, then $m = n$, that is, $S$ is an injection function (one-to-one function)
+- For every natural number $n$, $S(n) = 0$ is false, that is, there is no natural umber whose successor is 0
+- If set K contains 0 and if for every natural number n, n being in K implies that $S(n)$ is in K, then the set contains every natural number 
+
+
+From Wolfram
+- Zero is a natural number
+- If $x$ is a natural number, then the single increment of $n$ (the thing that's in front of $n$) is a natural number - Zero is not the successor of any other natural numbers 
+- - For all natural numbers $x$ and $y$, if $S(x) = S(y)$, then $m = n$, that is, $S$ is an injection function (one-to-one function)
+- If set K contains 0 and if for every natural number n, n being in K implies that $S(n)$ is in K, then the set contains every natural number 
+
+
+- **Propositions**
+      - 
+
+- A function for natural numbers
+      
+1, 2, 4, 8, 16, 32
+```{r}
+32*2*2
+
+
+```
+2^4,2^3, 2^2,2^1, 2^0
+128, 64, 32, 16, 8, 4, 2, 1
+      
+
+
+more regional area focus in the annual report -   
       
       
       
-      
-      
-      
-      
-      
-      
+For Eliz
+- Describe/explain
+  - What is it? (characteristics)
+  - What is the significance?/Why does it exist?
+  - How does it work? 
+  - How is it used?
+  - Where it is used? 
+  - What is the history behind it?
+- Relate to personal experiences
+- Compare and contrast with other related things
+  - 
+
+
+The study process 
+- Find resources
+- Read the resources
+- Develop an understanding
+  - Synthesis resources
+    - Identify commonalities and extract the essence (identify the things that make it unique)
+  - Think around it
+    - What is it? (describe/explain its characteristics)
+    - What is the significance?/Why does it exist?
+    - How does it work? 
+    - How is it used?
+    - Where it is used? 
+    - What is the history behind it?
+  - Relate 
+    - Relate to personal/others' experiences
+    - Relate to existing knowledge (Compare and contrast with other related things)
+- Create your own definition
       
       
       

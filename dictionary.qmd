@@ -1,0 +1,276 @@
+# Dictionary
+
+  
+**Axiom**
+
+- **Axiom**
+  - **Meaning**
+    - A proposition that is considered/assumed unquestionable hence treated as foundational/fundamental to something else and is followed by an individual or a group (e.g. community) in relation to/within some scope of investigation/study/beliefs etc. - Some mathematicians conceptualise mathematical axioms as definitions (which are absolutely true in the mathematical space/world but necessarily true in the real/material/physical world) - This is the opposite of theorem (smak)
+    - A proposition that commends itself to general acceptance; a well-estblished or universally-concided principle [@oed89]
+  - **Etymology**
+    - Inherited from French axiome, which was inherited from Latin axioma, which was inherited from Greek axioma, which was inherited from Greek axioo, which was inherited from Greek axios (meaning worthy)
+    - <details><summary>**See inheritance chain**</summary>
+      - **Axioma (Latin)**
+        - **Meaning**
+         - A fundamental proposition [@old12, p. 243]
+         - A fundamental proposition/principle (Online Latin Dictionary)
+      - **Axioma (Greek)**
+        - **Meaning**
+          - What is thought to be/deemed worthy or fit, a requisite/requirement, a self-evident principle ([Wiktionary](https://en.wiktionary.org/wiki/axiom))
+      - **Axioo (Greek)**
+        - **Meaning**
+          - To think fit or worthy, to require, to demand ([Wiktionary](https://en.wiktionary.org/wiki/axiom))
+          - Being in balance and hence having the same value/weight as, worthy, proper ([Wikipedia](https://en.wikipedia.org/wiki/Axiom#:~:text=8%20External%20links-,Etymology,worthy%22%2C%20%22proper%22.))
+      - **Axios (Greek)**
+        - **Meaning**
+          - Fit, worthy, weighting as much as, of value ([Wiktionary](https://en.wiktionary.org/wiki/axiom))
+      </details>
+  
+
+**Condition** 
+
+- **Condition**
+  - **Meaning**
+    - A state that needs/is required to be true/valid in order for a thing/object of primary interest to be (e.g. true or valid or agree) (smak)
+  - **Etymology**
+    - Inherited from old French condicion (requisite/prerequisite/stipulation), which was inherited from Latin condicio (agreement), which is derived from Latin condicere (agree upon)
+    - Since about 1500s, it has its meaning generalised to state/situation and has included a sense of limitation/restriction (which is a sense derived from the original meaning)
+
+
+**Corollary**
+
+- **Corollary**
+  - **Meaning**
+    - An unintended/effortless (hence additional/extra) consequent of something (smak)
+    - In modern English of the masses, this meaning is expressed by the word "by-product" (smak)
+    - Examples include gifts/tips to someone who did something, a theorem derived from a proof of another theorem (smak)
+    - A thesis, theorem; conclusion [@oed89, 1b def.]
+    - Something that follows in natural course; a practical consequence, result [@oed89, 2nd def.]
+    - Something added to a speech or writing over and above what is usual or what was originally intended; an appendix; a finishing or crowning part, the conclusion [@oed89, 3rd def.]
+    - Something additional or beyond the ordinary measure a surplus, a supernumerary [@oed89, 4th def.]
+    - A gift beyond what is actually due; an addition or superfluity [Wiktionary](https://en.wiktionary.org/wiki/corollary)
+    - An a fortiori occurrence, as a result of another effort without significant additional effort ([Wiktionary, 2nd def.](https://en.wiktionary.org/wiki/corollary))
+  - **Mathematics**
+    - A result that follows from a theorem almost immediately, often without further proof [@codom, p. 190]
+  - **Etymology**
+    - Inherited from Late Latin corollarium (meaning deduction) and Latin corollarium (meaning money paid for a garland or chaplet; gratuity), inherited Latin corolla/corona (meaning wreath, crown, chaplet) (Google)
+    - <details><summary>**See inheritance chain**</summary>
+      - **Corollarium (Late Latin)**
+        - **Meaning**
+          - The result/product of a deduction (smak)
+          - A garland, often given as a reward [@old12, p.490]
+          - An additional or unsolicited payment, a gratuity, extra, bounty, douceur [@old12, p. 409, 2nd def.]
+          - A deduction, consequence [Etymonline](https://www.etymonline.com/word/corollary)
+      - **Corollarium (Latin)**
+        - **Meaning**
+          - Money paid for a garland, hence, gift, gratuity, something extra  [Etymonline](https://www.etymonline.com/word/corollary)
+      </details>
+
+
+**Define**
+
+- **Define**
+  - **Meaning**
+    - To bound/restrict/limit/reserve/constrain/confine some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - To determine the boundary of; to settle the limits of [@oed89, 2nd def.]
+    - To make definite [@oed89, 2nd def.]
+  - **Etymology** 
+    - Inherited from Middle English definen, which was inherited from Old French definer, which was inherited from Latin definio, which is derived from Latin definio
+    - <details><summary>**See inheritance chain**</summary>
+      - **Definio (Latin)**
+        - **Meaning**
+          - To bound/restrict/limit/reserve/constrain/confine some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+          - Composed of de (the sense of "being from not being") + finio, hence, it means being finite from not being finite (smak)
+          - To fix the limits of, delimit, bound, to mark out the limits of [@old12]
+      - **Definire (Latin)**
+        - **Meaning**
+          - Composed of de (the sense of "being from not being") + finio, hence, it means to make something that isn't finite to being finite 
+          - To limit, determine, explain (Online Etymology Dictionary)
+          - De means completely, finire means to bound, limit (inherited from finis which means boundary/end) 
+      </details>
+- **Definition**
+  - **Meaning**
+    - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+    - The setting of bounds or limits; limitation, restriction [@oed89]
+  - **Etymology**
+    - Inherited from Latin definitio/definio, which was inherited from Latin definire (meaning set bounds to)
+    - <details><summary>**See inheritance chain**</summary>
+      - **Definitio (Latin)**
+        - **Meaning**
+          - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest that's not being bounded to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+          - The fixing or marking of a boundary [@old12, p. 550]
+          - A bounding, a boundary, a limiting, a prescribing, a definition, explanation [Online Etymology Dictionary](https://www.etymonline.com/word/definition#etymonline_v_25869) 
+      </details>
+- **Definite**
+  - **Meaning**
+    - Composed of de (meaning "from not being to being") + finite, hence, it means being finite from not being finite 
+    - Having fixed or exact limits... [@oed89]
+  
+
+**Finite** 
+
+- **Finite**
+  - **Meaning**
+    - Having some boundaries/restrictions/limitations/reservations/constraints/confinements in some particular aspects/things of a thing of interest to some sets of possibilities among all possibilities of these aspects (smak)
+    - Bounded/restricted/limited/reserved/constrained/confined
+    - Fixed, determined [@oed89]
+    - Having bounds, ends, or limits; bounded, limited [@oed89, 2nd def.]
+  - **Etymology**
+    - Inherited from Latin finitus, which was inherited from Latin finitum, the past participle of Latin finire (head word is finio) (Google/Oxford Languages)
+    - <details><summary>**See inheritance chain**</summary>
+      - **Finis (Latin)**</summary>
+        - **Meaning**
+          - Anything that bounds/restricts/limits/reserves/constrains/confines some particular aspects/things of a thing of interest to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+          - A sense of 'ending' and 'finish' (English finish was inherited from the root of Latin finis - but they have slightly different meanings) - Hence, although this may seem similar to senses of division/separation/difference/distancing, they have different senses 
+          - End (Google/Oxford Languages)
+          - The boundary of a territory or other area, or the line marking it [@old12, 772]
+          - That which divides, a boundary, border... [Etymonline](https://www.etymonline.com/word/finish#etymonline_v_5960)
+      - **Finio (Latin)**
+        - **Meaning**
+          - To bound/restrict/limit/reserve/constrain/confine some particular aspects/things of a thing of interest to some sets of possibilities (i.e. boundary/restrictions/limitations/reservations) among all possibilities of these aspects (smak)
+          - To mark out the boundaries of [@old12, p. 771]
+          - To limit, set bounds; come to an end [Etymonline](https://www.etymonline.com/word/finite)
+          - To limit, to end; to finish; to determine, to define; to mark out the boundaries [Online Latin Dictionary](https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=finio)
+        - **Inflections**
+          - Finire - To bound between multiple particular things in a particular way
+          - Finiui
+          - Finii 
+          - Finitum - The past participle of finio (can be used as an adjective) (i.e. finite in English)
+        - **Structure**
+          - A composition of Latin finis and io 
+      </details>
+ 
+ 
+ **Foundation/Fundament**
+
+- **Foundation**
+  - **Meaning**
+    - A thing on which other things are or are intended to be built/based/developed/relied (smak)
+    - The word foundation implies there is something it is holding (it is not a foundation if it is not or won't hold something on top) (smak)
+    - Foundations don't exist in themselves, but exist in relation to something (smak)
+  - **Etymology**
+    - Inherited from Old French foundation, which was inherited from Latin fundatio, which was inherited from Latin fundare
+    - Fundamental and its synonym foundational originated from a common root of Latin fundare (Foundation is the closest to the root, so I can replace fundamental with foundation)
+- **Fundament**
+  - **Meaning**
+    - A thing on which other things are or are intended to be built/based/developed/relied (smak)
+  - **Etymology**
+    - Inherited from French fondamental, which was inherited from late Latin fundamentalis, which was inherited from Latin fundamentum, which was inherited from Latin fundare 
+    - Fundamental and its synonym foundational originated from a common root of Latin fundare 
+
+  
+**Lemma**
+
+- **Lemma**
+  - **Meaning**
+    - The meaning of this word varies, hence, I am unable to derive my own definition of the general meaning of this word, though the definition of the meaning within mathematics is defined - see below (smak)
+  - **Etymology** 
+    - Inherited from Latin lemma (meaning something assumed), which was inherited from Greek lemma (meaning something assumed), derived from the root Latin lambanein (meaning to take) and root Greek lambano (meaning "I take")
+    - <details><summary>**See inheritance chain**</summary>
+      - **Lemma (Latin)**
+        - **Meaning**
+          - The meaning of this word varies, hence, I am unable to derive my own definition of the general meaning of this word, though the definition of the meaning within mathematics is defined - see below (smak)
+          - Something taken for something (meaning in development; smak)
+          - Something assumed (Google/Oxford Languages)
+          - A theme or subject; a title [@old12, p. 1117]
+          - Something received or taken; an argument; something taken for granted [Etymonline](https://www.etymonline.com/word/lemma)
+          - A theme, title; epigram [Online Latin Dictionary](https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=lemma)
+          - A subject for consideration or explanation a them a matter; a subject contents [Wiktionary](https://en.wiktionary.org/wiki/lemma)
+        - **In mathematics**
+          - A theorem made to prove a particular theorem of interest, hence, the theorem is treated as a subsidiary/intermediary in relation to the theorem of interest (smak)
+          - Something taken within an argument/proof (in development; smak)
+          - A subsidiary or intermediate theorem in an argument or proof (Google/Oxford Languages)
+          - A mathematical theorem proved primarily for use in the proof of a subsequent theorem [@codom]
+          - A proposition assumed or demonstrated which is subsidiary to some other [@oed89]
+      - **Lemma (Greek)**
+        - **Meaning**
+          - Premise; assumption [Wiktionary](https://en.wiktionary.org/wiki/lemma) 
+      </details>
+    
+
+**Proposition**
+
+- **Proposition**
+  - **Meaning**
+    - Something that is being placed, set, put out/forward (for attention/consideration to provoke some response - e.g. some judgement) (smak)
+  - **Etymology**
+    - Inherited from Latin propositio, which is the noun of proponere (an inflection of propono)
+    - <details><summary>**See inheritance chain**</summary>
+      - **Propono (Latin)**
+        - **Meaning**
+          - To place, set, put out/forward (for someone's attention/consideration to provoke some response - e.g. some judgement) (smak)
+          - To expose to view, exhibit [@old12]
+          - Composed of pro + pono
+        - **Inflections**
+          - Proponere
+          - Proposui
+          - Propositum
+      - **Pono (Latin)**
+        - **Meaning**
+          - To place, set, put (in a specified position)
+          - Originated from Proto-Italic posno
+        - **Inflections**
+          - **Ponere**
+            - Place, set, put, situate
+            - The present infinitive of Pono
+          - **Posui**
+            - First-person singular perfect active indicative of pono
+          - **Positum**
+            - An accusasive Supine of pono
+          - **Positus**
+            - Perfect passive participle of Pono 
+      </details>
+    
+ 
+**State**
+
+- **State**
+  - **Meaning**
+    - The position(s)/place(s) of the property(properties) of a particular thing/object (i.e. the value(s)/options(s) taken by the property/properties of a particular thing/object among all its/their possibilities) 
+    - This includes any property(properties) of any particular thing(s)/object(s) within the particular general thing/object (when the primary thing/object has a complex/nested structure)
+  - **Etymology**
+    - Inherited from Latin "status", which was inherited from Proto-Italic "Statos", which was inherited from Proto-Indo-European "steh tus"
+    - <details><summary>**See inheritance chain**</summary>
+      - **Status (Latin)**
+        - **Meaning**
+          - Originally/primarily means (having been) standing/the fact of being in a standing position; alternatively means the position/place (where something is standing/set)
+        - **Grammatical Parent**
+          - The perfect passive participle of sto or sisto
+      - **Statos/sisto (Latin)**
+        - **Meaning**
+          - To stand, set, place
+      - **Sto**
+        - **Meaning**
+          - To stand/to be in a standing position
+          - Inflections: stare, steti, statum 
+      </details>
+- **Statement**
+  - **Meaning**
+    - An expression of the state of a particular thing/object 
+    - Derived from English "state"
+
+
+**Theorem** 
+
+- **Theorem**
+  - **Meaning**
+    - A proposition that is not self-evident/questionable hence requires some proof for credibility (i.e. for it to be taken as true) (smak)
+    - A proposition that, in reality or in perception, does not always provoke a favourable/intended response to the individual/group who posited it, hence, is perceived to require some proof to provoke a favourable/intended response (favourable to/intended by the individual/group who posited it) (smak; expanded version to explain what "not self-evident" and "credible" means)
+    - A universal or general proposition or statement, not self-evident (thus distinguished from an axiom), but demonstrable by argument (in the strict sense, by necessary reasoning [@oed89]
+  - **Etymology**
+    - Derived from French théorème, which was inherited from late Latin theorema, which was inherited from Greek theorema, which was inherited from Greek theorein (meaning 'look at'), which was inherited from Greek theoros (meaning 'spectator')
+    - It is rather pointless to discuss about the semantic evolution, I will assume the significance of this word originated from mathematical theorems posited by Ancient Greek mathematicians, most prominently Pythagoras 
+    - <details><summary>**See inheritance chain**</summary>
+      - **Theorema (Latin)**
+        - **Meaning**
+          - A proposition that is not self-evident/questionable hence requires some proof for credibility (i.e. for it to be taken as true) (smak)
+          - A subject for investigation, a problem [@old12] 
+      </details>
+ 
+
+
+Hi sorry, I haven't been able to introduce myself. 
+
+
+  x
+

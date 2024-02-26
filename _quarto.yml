@@ -9,7 +9,7 @@ book:
     search: false
   chapters:
     - index.qmd
-    - introduction.qmd
+    - dictionary.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
